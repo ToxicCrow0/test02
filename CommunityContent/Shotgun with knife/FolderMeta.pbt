@@ -1,0 +1,95 @@
+MetaVersion: 1
+MarketplaceDetails {
+  Id: "e5297fc8be384df394165254268b19ee"
+  OwnerAccountId: "6af43e387cae4c43b3ba70fc74ac6268"
+  OwnerName: "Elarelda"
+  Version: "1.0.0"
+}
+AssetIdsOriginalToNew {
+  key: 307406115803496087
+  value: 17065443595876855338
+}
+AssetIdsOriginalToNew {
+  key: 440168262593430639
+  value: 6877007731783669499
+}
+AssetIdsOriginalToNew {
+  key: 928331646568598234
+  value: 6727602792695401854
+}
+AssetIdsOriginalToNew {
+  key: 1566995037184048354
+  value: 12167475115052177649
+}
+AssetIdsOriginalToNew {
+  key: 1683114021203363022
+  value: 11812584143549933409
+}
+AssetIdsOriginalToNew {
+  key: 2472577150731722024
+  value: 4939897576174893543
+}
+AssetIdsOriginalToNew {
+  key: 6652974207271369531
+  value: 15172702316255422505
+}
+AssetIdsOriginalToNew {
+  key: 6795206535065158887
+  value: 1696296630363817599
+}
+AssetIdsOriginalToNew {
+  key: 8163343952479535019
+  value: 17998010247382501210
+}
+AssetIdsOriginalToNew {
+  key: 8459825612529451237
+  value: 2264453115459318471
+}
+AssetIdsOriginalToNew {
+  key: 9023864673320310867
+  value: 16976135431930756476
+}
+AssetIdsOriginalToNew {
+  key: 9654009968499969690
+  value: 8909272421514910903
+}
+AssetIdsOriginalToNew {
+  key: 10139659402558168400
+  value: 3678673635859512408
+}
+AssetIdsOriginalToNew {
+  key: 10464718583626148499
+  value: 18020053435300394770
+}
+AssetIdsOriginalToNew {
+  key: 12210489528647249200
+  value: 11714896963286338988
+}
+AssetIdsOriginalToNew {
+  key: 12482744295477461651
+  value: 11120705131542476586
+}
+AssetIdsOriginalToNew {
+  key: 15728676179772725900
+  value: 17112292924671115219
+}
+AssetIdsOriginalToNew {
+  key: 16064653477604779480
+  value: 10704540727471474867
+}
+AssetIdsOriginalToNew {
+  key: 16118667818826686655
+  value: 18366357050423631788
+}
+AssetIdsOriginalToNew {
+  key: 16313312156352177803
+  value: 4492434705475175593
+}
+AssetIdsOriginalToNew {
+  key: 16975801195317677333
+  value: 7121311962448714648
+}
+AssetIdsOriginalToNew {
+  key: 17169051963161242240
+  value: 9322267316941151368
+}

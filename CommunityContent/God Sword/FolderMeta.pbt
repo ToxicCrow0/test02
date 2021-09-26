@@ -1,0 +1,71 @@
+MetaVersion: 1
+MarketplaceDetails {
+  Id: "f31c2ce65bfe4a26b7a7a2e13fa4f707"
+  OwnerAccountId: "a2f7c421ba7048539b88b86e0dc3f408"
+  OwnerName: "itscodi"
+  Version: "1.0.0"
+}
+AssetIdsOriginalToNew {
+  key: 1427829216143793458
+  value: 1766861685844640417
+}
+AssetIdsOriginalToNew {
+  key: 3194930412626622494
+  value: 10381443218345450073
+}
+AssetIdsOriginalToNew {
+  key: 3253590200665902781
+  value: 4949145707213998688
+}
+AssetIdsOriginalToNew {
+  key: 3439344544766058820
+  value: 632099529802330083
+}
+AssetIdsOriginalToNew {
+  key: 6893986948569522536
+  value: 13181158612884746749
+}
+AssetIdsOriginalToNew {
+  key: 7445855579671141283
+  value: 4780354352478549624
+}
+AssetIdsOriginalToNew {
+  key: 8799101599018051692
+  value: 5510129466144603126
+}
+AssetIdsOriginalToNew {
+  key: 9748598691135565465
+  value: 11829732807913866704
+}
+AssetIdsOriginalToNew {
+  key: 9770511928359673738
+  value: 17108183478670823979
+}
+AssetIdsOriginalToNew {
+  key: 10109220941690346490
+  value: 13305450833452268829
+}
+AssetIdsOriginalToNew {
+  key: 10251728999306098252
+  value: 3244453643626404351
+}
+AssetIdsOriginalToNew {
+  key: 12439034694186114331
+  value: 3937702957771998658
+}
+AssetIdsOriginalToNew {
+  key: 13890632722498209815
+  value: 16371482403915451832
+}
+AssetIdsOriginalToNew {
+  key: 14373757464648078715
+  value: 13426676392694688538
+}
+AssetIdsOriginalToNew {
+  key: 17134926086803901810
+  value: 4160295356312335884
+}
+AssetIdsOriginalToNew {
+  key: 17881642833931619063
+  value: 15970874278520501389
+}

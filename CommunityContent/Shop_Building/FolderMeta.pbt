@@ -1,0 +1,79 @@
+MetaVersion: 1
+MarketplaceDetails {
+  Id: "8bc65baad71e41d8976ae62de1a018f8"
+  OwnerAccountId: "2bc91a2e97e241d2a1182f30c53b1d25"
+  OwnerName: "MrDanPats"
+  Version: "1.0.0"
+}
+AssetIdsOriginalToNew {
+  key: 321472518781775172
+  value: 7449615459411806300
+}
+AssetIdsOriginalToNew {
+  key: 910949314022115710
+  value: 18140818164553552805
+}
+AssetIdsOriginalToNew {
+  key: 1031736639489708352
+  value: 15306106805293184254
+}
+AssetIdsOriginalToNew {
+  key: 1553829093085063154
+  value: 14065048625060349727
+}
+AssetIdsOriginalToNew {
+  key: 2183121347294277223
+  value: 9816806632917217065
+}
+AssetIdsOriginalToNew {
+  key: 4322298277544828886
+  value: 9817965888513320522
+}
+AssetIdsOriginalToNew {
+  key: 5598676279134910748
+  value: 11884164915590404606
+}
+AssetIdsOriginalToNew {
+  key: 5709833886585479088
+  value: 4437600934315830210
+}
+AssetIdsOriginalToNew {
+  key: 5847396690670173991
+  value: 14446519016391423847
+}
+AssetIdsOriginalToNew {
+  key: 6955180140330437902
+  value: 9244326578145817300
+}
+AssetIdsOriginalToNew {
+  key: 9578058722546272476
+  value: 874285201833218705
+}
+AssetIdsOriginalToNew {
+  key: 11461009970597177167
+  value: 17097168135200006547
+}
+AssetIdsOriginalToNew {
+  key: 14756400139239293537
+  value: 8559141164589190863
+}
+AssetIdsOriginalToNew {
+  key: 15153963755059509736
+  value: 7664283089164791780
+}
+AssetIdsOriginalToNew {
+  key: 15767774775541567359
+  value: 6308844016082190326
+}
+AssetIdsOriginalToNew {
+  key: 15832539070683060702
+  value: 8893213529116132595
+}
+AssetIdsOriginalToNew {
+  key: 16339498980341222565
+  value: 8585335119505739639
+}
+AssetIdsOriginalToNew {
+  key: 16638936355464385269
+  value: 10991742482610931844
+}

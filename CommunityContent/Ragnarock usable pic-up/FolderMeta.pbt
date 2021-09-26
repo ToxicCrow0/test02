@@ -1,0 +1,75 @@
+MetaVersion: 1
+MarketplaceDetails {
+  Id: "1550189877d84ffdaed8cc449c3830a5"
+  OwnerAccountId: "b13ca3cd408040fdae302eae85d809a6"
+  OwnerName: "Boblus1967"
+  Version: "1.0.0"
+}
+AssetIdsOriginalToNew {
+  key: 123110149048317851
+  value: 16029634492405232639
+}
+AssetIdsOriginalToNew {
+  key: 2121031651713062606
+  value: 10784312295864511021
+}
+AssetIdsOriginalToNew {
+  key: 2264073820745726082
+  value: 18391379842093383653
+}
+AssetIdsOriginalToNew {
+  key: 3522801023320085855
+  value: 8348155706311349858
+}
+AssetIdsOriginalToNew {
+  key: 4438277906096060538
+  value: 8265045011825797645
+}
+AssetIdsOriginalToNew {
+  key: 5116112066592295220
+  value: 7550678758226789709
+}
+AssetIdsOriginalToNew {
+  key: 5139503785382753878
+  value: 9074472135400126642
+}
+AssetIdsOriginalToNew {
+  key: 5708647119628002609
+  value: 10461012382554402620
+}
+AssetIdsOriginalToNew {
+  key: 10550616746679444712
+  value: 8150642818523571052
+}
+AssetIdsOriginalToNew {
+  key: 10975753434124754549
+  value: 18240366591040192951
+}
+AssetIdsOriginalToNew {
+  key: 11680821330874768216
+  value: 1867132533181423954
+}
+AssetIdsOriginalToNew {
+  key: 12127408384406864753
+  value: 5876878336442248640
+}
+AssetIdsOriginalToNew {
+  key: 13214810407082926344
+  value: 18110616708560045962
+}
+AssetIdsOriginalToNew {
+  key: 13651350716207304130
+  value: 8337393197631044299
+}
+AssetIdsOriginalToNew {
+  key: 13748857531510723576
+  value: 14710867202910809859
+}
+AssetIdsOriginalToNew {
+  key: 15647166919783357025
+  value: 11409874411255394711
+}
+AssetIdsOriginalToNew {
+  key: 18121534260408192258
+  value: 10841322183426084357
+}

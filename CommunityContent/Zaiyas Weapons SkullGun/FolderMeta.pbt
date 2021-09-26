@@ -1,0 +1,75 @@
+MetaVersion: 1
+MarketplaceDetails {
+  Id: "75e79b8cbfa64973b35062018f938738"
+  OwnerAccountId: "3d42b0a22c73407ea970056993707076"
+  OwnerName: "Zaiya"
+  Version: "1.0.0"
+}
+AssetIdsOriginalToNew {
+  key: 1533686442705312849
+  value: 7244578487249879853
+}
+AssetIdsOriginalToNew {
+  key: 1683114021203363022
+  value: 356407847064944113
+}
+AssetIdsOriginalToNew {
+  key: 1770640595742895251
+  value: 6069889400077281665
+}
+AssetIdsOriginalToNew {
+  key: 3144871937647846964
+  value: 12607530290977736433
+}
+AssetIdsOriginalToNew {
+  key: 8302012703453137273
+  value: 4275043273190734718
+}
+AssetIdsOriginalToNew {
+  key: 8647691710479626237
+  value: 12165326582327140697
+}
+AssetIdsOriginalToNew {
+  key: 8906375494946890205
+  value: 6526655265958480443
+}
+AssetIdsOriginalToNew {
+  key: 10591847180012528003
+  value: 12824019419363610944
+}
+AssetIdsOriginalToNew {
+  key: 11481617001287633814
+  value: 16030317953200000155
+}
+AssetIdsOriginalToNew {
+  key: 12107734285812188601
+  value: 5584671226098956447
+}
+AssetIdsOriginalToNew {
+  key: 13235592136068060647
+  value: 17869109296112100190
+}
+AssetIdsOriginalToNew {
+  key: 13511354369421817568
+  value: 11181528016452955410
+}
+AssetIdsOriginalToNew {
+  key: 14859128827572178938
+  value: 9621465849714330383
+}
+AssetIdsOriginalToNew {
+  key: 15728676179772725900
+  value: 12089144637791005337
+}
+AssetIdsOriginalToNew {
+  key: 16313312156352177803
+  value: 15127654720529273205
+}
+AssetIdsOriginalToNew {
+  key: 17250119807101588970
+  value: 4632720769176213507
+}
+AssetIdsOriginalToNew {
+  key: 18153652676074438969
+  value: 5077269638503071650
+}

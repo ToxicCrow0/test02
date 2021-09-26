@@ -1,0 +1,63 @@
+MetaVersion: 1
+MarketplaceDetails {
+  Id: "a1b58ac3cb4f48bb9d4fa0142ae7388f"
+  OwnerAccountId: "f99abf1376284659a92185c645abfb25"
+  OwnerName: "LittleCreator"
+  Version: "1.0.0"
+}
+AssetIdsOriginalToNew {
+  key: 64542765882865964
+  value: 13068525542224232790
+}
+AssetIdsOriginalToNew {
+  key: 732536865245941010
+  value: 7271708718461319881
+}
+AssetIdsOriginalToNew {
+  key: 1314827092979255541
+  value: 15415632957452816219
+}
+AssetIdsOriginalToNew {
+  key: 2492452858327876152
+  value: 4782538681126177521
+}
+AssetIdsOriginalToNew {
+  key: 3373356485631965403
+  value: 13051695432476476470
+}
+AssetIdsOriginalToNew {
+  key: 6668713328730366404
+  value: 3970704352140825968
+}
+AssetIdsOriginalToNew {
+  key: 9379140821130749830
+  value: 6185941368568970239
+}
+AssetIdsOriginalToNew {
+  key: 10607153596125005263
+  value: 6475620058252908125
+}
+AssetIdsOriginalToNew {
+  key: 11530950476723229886
+  value: 13476861029469373439
+}
+AssetIdsOriginalToNew {
+  key: 13782878122079654701
+  value: 13911492383446177833
+}
+AssetIdsOriginalToNew {
+  key: 14174940179528680802
+  value: 14253159432579676099
+}
+AssetIdsOriginalToNew {
+  key: 14876734927270153088
+  value: 16242535955297765191
+}
+AssetIdsOriginalToNew {
+  key: 15964233536411532040
+  value: 11758062601411681342
+}
+AssetIdsOriginalToNew {
+  key: 16819692439278083258
+  value: 17882237314197848528
+}

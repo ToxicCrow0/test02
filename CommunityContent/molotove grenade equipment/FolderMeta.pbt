@@ -1,0 +1,79 @@
+MetaVersion: 1
+MarketplaceDetails {
+  Id: "f7780e65d098450ea7a4709beb5244bf"
+  OwnerAccountId: "86861ac1866f49c3af1de1870f20c5e0"
+  OwnerName: "mangoboy"
+  Version: "1.0.0"
+}
+AssetIdsOriginalToNew {
+  key: 440168262593430639
+  value: 255164661569109273
+}
+AssetIdsOriginalToNew {
+  key: 1683114021203363022
+  value: 10093694862039098436
+}
+AssetIdsOriginalToNew {
+  key: 2055454275930981431
+  value: 2946507207355484222
+}
+AssetIdsOriginalToNew {
+  key: 6429990925758067512
+  value: 4567234194616904497
+}
+AssetIdsOriginalToNew {
+  key: 6795206535065158887
+  value: 14187547346905800179
+}
+AssetIdsOriginalToNew {
+  key: 7560597166793505463
+  value: 6416950928856914752
+}
+AssetIdsOriginalToNew {
+  key: 8113725433182133795
+  value: 18000168608422230471
+}
+AssetIdsOriginalToNew {
+  key: 8163343952479535019
+  value: 17200201783211665582
+}
+AssetIdsOriginalToNew {
+  key: 8459825612529451237
+  value: 18287421198141645166
+}
+AssetIdsOriginalToNew {
+  key: 8538352699674853808
+  value: 14061531058472000316
+}
+AssetIdsOriginalToNew {
+  key: 8688477279662119454
+  value: 2941227414755237818
+}
+AssetIdsOriginalToNew {
+  key: 9023864673320310867
+  value: 1864722781936454432
+}
+AssetIdsOriginalToNew {
+  key: 12107734285812188601
+  value: 14418492655968311037
+}
+AssetIdsOriginalToNew {
+  key: 13893999666650632435
+  value: 13808712640492821687
+}
+AssetIdsOriginalToNew {
+  key: 14070343739259483906
+  value: 5863949167396375244
+}
+AssetIdsOriginalToNew {
+  key: 16953936504369896736
+  value: 5513301793274983927
+}
+AssetIdsOriginalToNew {
+  key: 17103588375713329285
+  value: 2623164649875799553
+}
+AssetIdsOriginalToNew {
+  key: 18403044146386498216
+  value: 9060841471512826517
+}

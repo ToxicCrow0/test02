@@ -1,0 +1,71 @@
+MetaVersion: 1
+MarketplaceDetails {
+  Id: "60303b379b484631a8a85ceabeaa7b17"
+  OwnerAccountId: "ce876efddaac4386a1772b2e9b77a6d2"
+  OwnerName: "NoobDadGamer"
+  Version: "1.0.0"
+}
+AssetIdsOriginalToNew {
+  key: 2478801424629546255
+  value: 1474061607898623167
+}
+AssetIdsOriginalToNew {
+  key: 4292292694455389779
+  value: 16129094480478690263
+}
+AssetIdsOriginalToNew {
+  key: 4963497493043020308
+  value: 13627519251942956234
+}
+AssetIdsOriginalToNew {
+  key: 5373342401350113481
+  value: 18016883425446103043
+}
+AssetIdsOriginalToNew {
+  key: 5832157683747886030
+  value: 14245253170543855350
+}
+AssetIdsOriginalToNew {
+  key: 7190876504977275787
+  value: 397599751586601678
+}
+AssetIdsOriginalToNew {
+  key: 8601808928673084585
+  value: 9995482517525617312
+}
+AssetIdsOriginalToNew {
+  key: 8668191336524610209
+  value: 2842994611550072651
+}
+AssetIdsOriginalToNew {
+  key: 11289622505408999972
+  value: 8108562216202602110
+}
+AssetIdsOriginalToNew {
+  key: 11780746552520788173
+  value: 12126668700739641107
+}
+AssetIdsOriginalToNew {
+  key: 12118981467429177486
+  value: 7074252281090176878
+}
+AssetIdsOriginalToNew {
+  key: 12485806080752485121
+  value: 3908338232995618464
+}
+AssetIdsOriginalToNew {
+  key: 14016046179305486158
+  value: 4746556310323181887
+}
+AssetIdsOriginalToNew {
+  key: 14988716320046650900
+  value: 14442382348669756405
+}
+AssetIdsOriginalToNew {
+  key: 17171369973803023753
+  value: 15393284418225802424
+}
+AssetIdsOriginalToNew {
+  key: 17302412131754929864
+  value: 1351492612778145093
+}
